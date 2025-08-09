@@ -92,7 +92,7 @@ Admin credentials:
    ![Admin Fine Management]("screenshots/Admin Fine Management.png")
 
 6. **Admin User Management**  
-   ![Admin User Management](screenshots/Admin_User_Management.png)
+   ![Admin User Management](screenshots/Admin%20User%20management.png)
 
 7. **User Profile**  
    ![User Profile](screenshots/User_Profile.png)
