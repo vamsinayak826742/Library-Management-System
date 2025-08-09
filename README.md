@@ -89,7 +89,7 @@ Admin credentials:
    ![Admin Books Management](screenshots/Admin%Books%Management.png)
 
 5. **Admin Fine Management**  
-   ![Admin Fine Management](screenshots/Admin_Fine_Management.png)
+   ![Admin Fine Management]("screenshots/Admin Fine Management.png")
 
 6. **Admin User Management**  
    ![Admin User Management](screenshots/Admin_User_Management.png)
