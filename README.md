@@ -108,7 +108,7 @@ Admin credentials:
     ![User Borrowed Books](screenshots/User%20Borrowed%20Books.png)
 
 11. **Books for User to Borrow**  
-    ![Books for User to Borrow](screenshots/Books%20for%20User%20to%20Borrow.png)
+    ![Books for User to Borrow](screenshots/Books%20for%20user%20to%20Borrow%20.png)
 
 
 ---
