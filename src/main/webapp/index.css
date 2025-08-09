@@ -1,0 +1,107 @@
+/* Remove padding on body so header overlays on image */
+body {
+  margin: 0;
+  padding: 0; /* remove padding-top */
+  height: 100%;
+}
+
+/* Header styles */
+.header {
+  display: flex;
+  align-items: center;
+  padding: 0 40px;
+  height: 60px;
+  background-color: transparent; /* fully transparent */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000; /* high to be on top */
+  justify-content: flex-start;
+}
+
+/* Logo */
+.logo-nav a {
+  font-size: 20px;
+  color: #ffd700; /* gold */
+  font-weight: 800;
+  z-index: 101;
+  text-decoration: none;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
+
+/* Nav container */
+.nav-options {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 101;
+}
+
+/* Nav items */
+.option {
+  margin: 0 20px;
+  display: flex;
+  align-items: center;
+}
+
+.option a {
+  color: #00ffff; /* bright cyan */
+  font-weight: 900;
+  font-size: 24px; /* bigger font size */
+  text-decoration: none;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+  transition: color 0.3s ease;
+  padding: 12px 25px; /* bigger clickable area */
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1); /* slight transparent background */
+  cursor: pointer;
+  display: inline-block;
+}
+
+.option a:hover {
+  color: #ffea00; /* bright yellow */
+  text-shadow: 2px 2px 5px rgba(0,0,0,1);
+  background: rgba(255, 255, 255, 0.25); /* brighter background on hover */
+}
+
+
+/* Hero full background */
+.hero {
+  position: fixed;  /* Fix the image in the background */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;   /* full viewport */
+  background-image: url('https://images.pexels.com/photos/1290141/pexels-photo-1290141.jpeg?cs=srgb&dl=pexels-ivo-rainha-527110-1290141.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
+  z-index: 0; /* behind everything */
+}
+
+/* Dark overlay on hero */
+.hero-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(0,0,0,0.4);
+  z-index: 1; /* above background but below header */
+}
+
+/* Centered hero text */
+.hero-text {
+  position: relative; /* relative to body */
+  z-index: 100; /* above overlay */
+  margin-top: 300px; /* push below header */
+  text-align: center;
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+  user-select: none;
+  padding: 20px;
+}
