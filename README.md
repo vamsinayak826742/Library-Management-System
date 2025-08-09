@@ -81,37 +81,38 @@ Admin credentials:
    ![Home](screenshots/Home.png)
 
 2. **Login**  
-   ![Login](screenshots/Login.png)
+   ![Login](screenshots/Login Form.png)
 
 3. **Books**  
-   ![Books](screenshots/Books.png)
+   ![Books](screenshots/books.png)
 
 4. **Admin Books Management**  
-   ![Admin Books Management](screenshots/Admin_Books_Management.png)
+   ![Admin Books Management](screenshots/Admin Books Management.png)
 
 5. **Admin Fine Management**  
-   ![Admin Fine Management](screenshots/Admin_Fine_Management.png)
+   ![Admin Fine Management](screenshots/Admin Fine Management.png)
 
 6. **Admin User Management**  
-   ![Admin User Management](screenshots/Admin_User_Management.png)
+   ![Admin User Management](screenshots/Admin User Management.png)
 
 7. **User Profile**  
-   ![User Profile](screenshots/User_Profile.png)
+   ![User Profile](screenshots/User Profile.png)
 
 8. **User History Tab**  
-   ![User History Tab](screenshots/User_History_Tab.png)
+   ![User History Tab](screenshots/User History Tab.png)
 
 9. **User Return Tab**  
-   ![User Return Tab](screenshots/User_Return_Tab.png)
+   ![User Return Tab](screenshots/User Return Tab.png)
 
 10. **User Borrowed Books**  
-    ![User Borrowed Books](screenshots/User_Borrowed_Books.png)
+    ![User Borrowed Books](screenshots/User Borrowed Books.png)
 
 11. **Books for User to Borrow**  
-    ![Books for User to Borrow](screenshots/Books_for_User_to_Borrow.png)
+    ![Books for User to Borrow](screenshots/Books for User to Borrow.png)
 
 ---
 
 ## 🧑‍💻 Author
-**[Library Management System](mailto:vamsinayakbanavathu@gmail.com)**  
-🔗 [GitHub Profile](https://github.com/vamsinayak826742)
+**[Mail Me](mailto:vamsinayakbanavathu@gmail.com)** 
+
+**🔗 [GitHub Profile](https://github.com/vamsinayak826742)**
