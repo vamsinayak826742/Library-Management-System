@@ -110,7 +110,9 @@ This version is **portable**, meaning it can be deployed locally or on any serve
 ## 🧑‍💻 Author
 
 **B. Vamsi Nayak**
-📧 Email: [vamsinayakbanavathu@gmail.com](mailto:vamsinayakbanavathu@gmail.com)
+
+📧 Email: Mail me(mailto:vamsinayakbanavathu@gmail.com)
+
 🔗 GitHub: [https://github.com/vamsinayak826742](https://github.com/vamsinayak826742)
 
 ---
