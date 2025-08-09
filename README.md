@@ -80,35 +80,8 @@ Admin credentials:
 1. **Home**  
    ![Home](screenshots/Home.png)
 
-2. **Login**  
-   ![Login](screenshots/Login Form.png)
-
-3. **Books**  
+2. **Books**  
    ![Books](screenshots/books.png)
-
-4. **Admin Books Management**  
-   ![Admin Books Management](screenshots/Admin Books Management.png)
-
-5. **Admin Fine Management**  
-   ![Admin Fine Management](screenshots/Admin Fine Management.png)
-
-6. **Admin User Management**  
-   ![Admin User Management](screenshots/Admin User Management.png)
-
-7. **User Profile**  
-   ![User Profile](screenshots/User Profile.png)
-
-8. **User History Tab**  
-   ![User History Tab](screenshots/User History Tab.png)
-
-9. **User Return Tab**  
-   ![User Return Tab](screenshots/User Return Tab.png)
-
-10. **User Borrowed Books**  
-    ![User Borrowed Books](screenshots/User Borrowed Books.png)
-
-11. **Books for User to Borrow**  
-    ![Books for User to Borrow](screenshots/Books for User to Borrow.png)
 
 ---
 
