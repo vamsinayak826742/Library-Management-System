@@ -88,4 +88,4 @@ Admin credentials:
 ## 🧑‍💻 Author
 **[Mail Me](mailto:vamsinayakbanavathu@gmail.com)** 
 
-**🔗 [GitHub Profile](https://github.com/vamsinayak826742)**
+**[GitHub Profile](https://github.com/vamsinayak826742)**
