@@ -79,41 +79,52 @@ Admin credentials:
 
 1. **Home**  
    ![Home](screenshots/Home.png)
+   
 
-2. **Books**  
+3. **Books**  
    ![Books](screenshots/books.png)
+   
 
-3. **Login**  
-   ![Login](screenshots/Login%20Form.png) 
+5. **Login**  
+   ![Login](screenshots/Login%20Form.png)
+   
 
-4. **Admin Books Management**  
+7. **Admin Books Management**  
    ![Admin Books Management](screenshots/Admin%20books%20management.png)
+   
 
-5. **Admin Fine Management**  
+9. **Admin Fine Management**  
    ![Admin Fine Management](screenshots/Admin%20fine%20management.png)
+   
 
-6. **Admin User Management**  
+11. **Admin User Management**  
    ![Admin User Management](screenshots/Admin%20User%20management.png)
 
-7. **User Profile**  
+
+13. **User Profile**  
    ![User Profile](screenshots/User%20Profile.png)
 
-8. **User History Tab**  
+
+15. **User History Tab**  
    ![User History Tab](screenshots/User%20History%20Tab.png)
 
-9. **User Return Tab**  
+
+17. **User Return Tab**  
    ![User Return Tab](screenshots/User%20Return%20Tab.png)
 
-10. **User Borrowed Books**  
+
+19. **User Borrowed Books**  
     ![User Borrowed Books](screenshots/User%20Borrowed%20Books.png)
+    
 
-11. **Books for User to Borrow**  
+21. **Books for User to Borrow**  
     ![Books for User to Borrow](screenshots/Books%20for%20user%20to%20Borrow%20.png)
-
+    
 
 ---
 
 ## 🧑‍💻 Author
+**If you have any queries:-**
 **[Mail Me](mailto:vamsinayakbanavathu@gmail.com)** 
 
-**[GitHub Profile](https://github.com/vamsinayak826742)**
+**[GitHub Profile](https://github.com/vamsinayak826742/Library-Management-System)**
