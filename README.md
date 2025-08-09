@@ -84,31 +84,31 @@ Admin credentials:
    ![Books](screenshots/books.png)
 
 3. **Login**  
-   ![Login](screenshots/Login Form.png) 
+   ![Login](screenshots/Login%20Form.png) 
 
 4. **Admin Books Management**  
-   ![Admin Books Management](screenshots/Admin%Books%Management.png)
+   ![Admin Books Management](screenshots/Admin%20books%20management.png)
 
 5. **Admin Fine Management**  
-   ![Admin Fine Management](screenshots/Admin Fine Management.png)
+   ![Admin Fine Management](screenshots/Admin%20fine%20management.png)
 
 6. **Admin User Management**  
    ![Admin User Management](screenshots/Admin%20User%20management.png)
 
 7. **User Profile**  
-   ![User Profile](screenshots/User_Profile.png)
+   ![User Profile](screenshots/User%20Profile.png)
 
 8. **User History Tab**  
-   ![User History Tab](screenshots/User_History_Tab.png)
+   ![User History Tab](screenshots/User%20History%20Tab.png)
 
 9. **User Return Tab**  
-   ![User Return Tab](screenshots/User_Return_Tab.png)
+   ![User Return Tab](screenshots/User%20Return%20Tab.png)
 
 10. **User Borrowed Books**  
-    ![User Borrowed Books](screenshots/User_Borrowed_Books.png)
+    ![User Borrowed Books](screenshots/User%20Borrowed%20Books.png)
 
 11. **Books for User to Borrow**  
-    ![Books for User to Borrow](screenshots/Books_for_User_to_Borrow.png)
+    ![Books for User to Borrow](screenshots/Books%20for%20User%20to%20Borrow.png)
 
 
 ---
